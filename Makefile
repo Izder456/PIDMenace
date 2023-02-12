@@ -1,5 +1,5 @@
 ifndef config
-  config = debug
+  config=debug
 endif
 export config
 
@@ -28,4 +28,4 @@ help:
 	@echo "   clean"
 	@echo "   PIDMenace"
 	@echo ""
-	@echo "For more information, see http://industriousone.com/premake/quick-start"
+	@echo "For more information, refer to your mother, she knows best, babyboy ;)"
